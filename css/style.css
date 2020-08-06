@@ -20,5 +20,18 @@ img {
 }
 
 #img-caption {
+  font-size: 17px;
+}
+
+#tribute-info {
+  padding: 5% 30%;
   font-size: 20px;
+}
+
+.info {
+  text-align: justify;
+}
+
+#tribute-link {
+  text-align: center;
 }
